@@ -1,0 +1,66 @@
+a{
+    text-decoration: none;
+    font-family: "Montserrat bold";
+    color: black;
+    font-size: 22.8px;
+    vertical-align:top
+}
+
+ol li{
+    list-style: none;
+    display: inline;
+    margin: 30px;
+}
+
+nav ol
+{
+    position: absolute;
+    top: 3%;
+    right: 1%;
+}
+
+h1{
+    font-family: "Cinzel";
+    position: absolute;
+    top: 5px;
+    left: 10px;
+}
+
+.bg{
+    background-image: url(img/dune-du-pilat.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    position: relative;
+    top: 70px;
+}
+
+#provence{
+    position: absolute;
+    top: 550px;
+}
+
+#calanques{
+    position: absolute;
+    top: 1150px;
+}
+.puys{
+    position: absolute;
+    top: 1650px;
+}
+h2{
+    background-color: brown;
+    color: white;
+    border: 2px solid gray;
+}
+
+.puys img{
+    float: right;
+    width: 600px;
+    height: 350px;
+}
+#calanques img{
+    float: right;
+}
