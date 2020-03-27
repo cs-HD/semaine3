@@ -1,9 +1,9 @@
 a{
     text-decoration: none;
-    font-family: "Montserrat bold";
+    font-family: "Montserrat";
     color: black;
     font-size: 22.8px;
-    vertical-align:top
+    vertical-align: top;
 }
 
 ol li{
@@ -12,7 +12,7 @@ ol li{
     margin: 30px;
 }
 
-nav ol
+nav
 {
     position: absolute;
     top: 3%;
@@ -27,7 +27,7 @@ h1{
 }
 
 .bg{
-    background-image: url(img/dune-du-pilat.jpg);
+    background-image: url(https://www.campingsgrandsud.fr/wp-content/uploads/2019/04/dune-du-pilat.jpg);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -63,4 +63,9 @@ h2{
 }
 #calanques img{
     float: right;
+}
+
+#provence img {
+    margin: 2px;
+    float: left;
 }
